@@ -17,7 +17,39 @@ if ($verifier->isUsingSSL()) {
 ```
 
 ## Contributing
-Feel free to fork the repository and submit pull requests with any improvements or bugfixes.
+If you would like to contribute to the development of this class, I would be more than happy to consider your contributions!
+
+###
+
+To contribute, simply fork the repository, make your changes, and submit a pull request back to the main repository. I will review your changes and, if they meet the project's standards and requirements, I will merge them into the main codebase.
+
+###
+
+Before submitting your changes, please make sure to test your code thoroughly and ensure that it is properly documented. Also, please make sure to follow the project's coding standards and conventions.
+
+###
+
+Thank you for your interest in contributing to this project!
+
+## How to Contribute
+Your contributions to this project are greatly appreciated! Here are some ways you can get involved:
+
+###
+
+Report bugs or issues: If you encounter any bugs or issues while using this class, please report them by opening an issue in the repository's issue tracker.
+
+###
+
+Suggest enhancements: If you have ideas for improvements or new features, please share them by opening an issue in the repository's issue tracker.
+
+###
+
+Contribute code: If you would like to contribute code, follow these steps:
+
+- Fork the repository.
+- Make your changes.
+- Test your changes thoroughly.
+- Submit a pull request back to the main repository.
 
 ## Support
 If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
