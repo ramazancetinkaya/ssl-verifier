@@ -5,6 +5,11 @@ This PHP class allows you to check whether a given URL is using SSL or not throu
 - PHP 8.2 or later
 - cURL library
 
+## Installation
+You can install this class using composer by running the following command:
+
+- composer require your-vendor/ssl-verifier
+
 ## Usage
 
 ```php
