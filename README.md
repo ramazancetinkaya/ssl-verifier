@@ -8,7 +8,9 @@ This PHP class allows you to check whether a given URL is using SSL or not throu
 ## Installation
 You can install this class using composer by running the following command:
 
-- composer require your-vendor/ssl-verifier
+```composer
+composer require your-vendor/ssl-verifier
+```
 
 ## Usage
 
