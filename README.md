@@ -32,24 +32,32 @@ Before submitting your changes, please make sure to test your code thoroughly an
 Thank you for your interest in contributing to this project!
 
 ## How to Contribute
-Your contributions to this project are greatly appreciated! Here are some ways you can get involved:
+Your contributions to this project are greatly appreciated! Whether you're reporting a bug, suggesting an enhancement, or contributing code, every contribution helps make this project better.
 
 ###
 
-1. **Report bugs or issues**: If you encounter any bugs or issues while using this class, please report them by opening an issue in the repository's issue tracker.
+Here are some ways you can get involved:
+
 
 ###
 
-2. **Suggest enhancements**: If you have ideas for improvements or new features, please share them by opening an issue in the repository's issue tracker.
+1. **Report bugs or issues**: If you encounter any bugs or issues while using this class, please report them by opening an issue in the repository's issue tracker. Be sure to include a detailed description of the problem, and if possible, steps to reproduce the issue.
+
+###
+
+2. **Suggest enhancements**: If you have ideas for improvements or new features, please share them by opening an issue in the repository's issue tracker. Your suggestions and feedback are valuable and will help guide the development of this project.
 
 ###
 
 3. **Contribute code**: If you would like to contribute code, **follow these steps**:
 
-- Fork the repository.
-- Make your changes.
-- Test your changes thoroughly.
-- Submit a pull request back to the main repository.
+    - Fork the repository.
+    - Clone the forked repository to your local machine.
+    - Create a new branch to make your changes.
+    - Make your changes.
+    - Test your changes thoroughly.
+    - Commit your changes and push them to your forked repository.
+    - Submit a pull request back to the main repository.
 
 ## Support
 If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
