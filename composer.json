@@ -10,4 +10,5 @@
             "SSLVerifier\\": "src/"
         }
     }
+    "license": "MIT",
 }
