@@ -1,5 +1,5 @@
-# SSL Verifier Class
-A PHP class to determine if a URL uses SSL
+# SSL Verifier
+This PHP class allows you to check whether a given URL is using SSL or not through cURL, ensuring that the code is both detailed and compliant with coding standards.
 
 ## Requirements
 - PHP 8.2 or later
