@@ -16,6 +16,9 @@ if ($verifier->isUsingSSL()) {
 }
 ```
 
+## Contributing
+Feel free to fork the repository and submit pull requests with any improvements or bugfixes.
+
 ## Authors
 
 Ramazan Çetinkaya
