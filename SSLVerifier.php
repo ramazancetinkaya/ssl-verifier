@@ -6,6 +6,8 @@
  * @author Ramazan Çetinkaya
  * @date 2023-02-11
  */
+namespace SSLVerifier;
+
 class SSLVerifier
 {
     // URL to be verified
