@@ -9,6 +9,6 @@
         "psr-4": {
             "SSLVerifier\\": "src/"
         }
-    }
-    "license": "MIT",
+    },
+    "license": "MIT"
 }
