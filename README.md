@@ -36,15 +36,15 @@ Your contributions to this project are greatly appreciated! Here are some ways y
 
 ###
 
-Report bugs or issues: If you encounter any bugs or issues while using this class, please report them by opening an issue in the repository's issue tracker.
+1. Report bugs or issues: If you encounter any bugs or issues while using this class, please report them by opening an issue in the repository's issue tracker.
 
 ###
 
-Suggest enhancements: If you have ideas for improvements or new features, please share them by opening an issue in the repository's issue tracker.
+2. Suggest enhancements: If you have ideas for improvements or new features, please share them by opening an issue in the repository's issue tracker.
 
 ###
 
-Contribute code: If you would like to contribute code, follow these steps:
+3. Contribute code: If you would like to contribute code, follow these steps:
 
 - Fork the repository.
 - Make your changes.
