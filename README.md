@@ -1,7 +1,11 @@
-# SSL Checker
-Here is an example PHP class that can check if a website is using SSL:
+# SSL Verifier Class
+A PHP class to determine if a URL uses SSL
 
-## You can use this class like this:
+## Requirements
+- PHP 8.2 or later
+- cURL library
+
+## Usage
 
 ```php
 $verifier = new SSLVerifier("https://www.google.com");
@@ -12,12 +16,12 @@ if ($verifier->isUsingSSL()) {
 }
 ```
 
-### Authors
+## Authors
 
-**Ramazan Çetinkaya**
+Ramazan Çetinkaya
 
 - [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
 
-### License
+## License
 
 Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
