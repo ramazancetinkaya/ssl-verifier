@@ -2,13 +2,18 @@
     "name": "ramazancetinkaya/ssl-verifier",
     "description": "This PHP class allows you to check whether a given URL is using SSL or not through cURL, ensuring that the code is both detailed and compliant with coding standards.",
     "type": "library",
+    "authors": [
+        {
+            "name": "Ramazan Çetinkaya",
+        }
+    ],
     "require": {
         "php": ">=8.2"
     },
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "SSLVerifier\\": "src/"
         }
-    },
-    "license": "MIT"
+    }
 }
