@@ -65,6 +65,20 @@ Here are some ways you can get involved:
     - Test your changes thoroughly.
     - Commit your changes and push them to your forked repository.
     - Submit a pull request back to the main repository.
+   
+## Disclaimer
+
+The software and its copyright are owned solely by the author. Any commercial use of the software requires the author's permission. The author and the copyright holders are not responsible for any errors or problems that may have been overlooked in contributions, reviews, or any other form of modification to the software.
+
+The author and the copyright holders shall not be held responsible for any damages arising from the use of this software. The software is provided "as is", without warranty of any kind, express or implied.
+
+In no event shall the author or the copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+This project is intended for educational and informational purposes only, and should not be considered as professional advice or recommendations. The author encourages you to seek appropriate professional guidance before taking any action based on the information and contents provided in this project.
+
+###
+
+By using this software, you agree to the above terms and conditions. If you do not agree with these terms, you should not use this software.
 
 ## Support
 If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
@@ -79,6 +93,6 @@ Ramazan Çetinkaya
 
 - [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
 
-## License
+## Copyright and License
 
 Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
